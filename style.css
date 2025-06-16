@@ -23,7 +23,7 @@ body{
 }
 
 .new_iphone{
-    background-color: rgba(255, 255, 255, 0.4);
+    background-color: rgba(192, 185, 185, 0.4);
     
 }
 
@@ -44,6 +44,7 @@ a{
 }
 .sub_heading{
     text-align: center;
+    
 }
 .iphoneimages{
     text-align: center;
@@ -55,17 +56,100 @@ a{
 
 .exchange_iphone{
     position: relative;
+    background-color: rgba(174, 166, 166, 0.4);
 }
 .next_applelogo{
     width: 80px;
     height: 30px;
     position: absolute;
     top: 50px;
-    left: 348px;
+    left: 350px;
 }
 .text{
     position: absolute;
     font-size: 30px;
     top: 60px;
-    left: 755px;
+    left: 760px;
+}
+.subtext{
+    position: absolute;
+    top: 70px;
+    left: 330px;
+    font-size: 28px;
+    font-weight: 40px;
+}
+.subtext1{
+    position: absolute;
+    top: 170px;
+    left: 680px;
+    font-size: 28px;
+    font-weight: 40px;
+}
+
+.subtext2{
+    position: absolute;
+    top: 230px;
+    left: 760px; 
+    font-size: 15px;
+
+}
+.alink{
+    background-color: blue;
+    position: absolute;
+    top: 280px;
+    left: 750px;
+    padding: 10px;
+}
+.iphone_exchange{
+    text-align: center;
+    display: flex;
+    width: 1680px;
+    height: 450px;
+    
+}
+.MacBook{
+    background-color: rgb(227, 246, 252);
+    position: relative;
+    height: 800px;
+}
+.newmac{
+    text-align: center;
+    
+    
+}
+.title{
+    font-size: 28px;
+    font-weight: 25px;
+    text-align: center;
+}
+.subtitle{
+    font-size: 28px;
+    font: weight 25px;
+    text-align: center;
+}
+.alinks{
+    background-color: blue;
+    padding: 10px;
+    margin-left: 730px;
+}
+.alinkss{
+    background-color: rgb(192, 235, 248);
+    color: black;
+    border-radius: 5%;
+    padding: 10px;
+    margin-left: 100px;
+}
+.macimage{
+    width: 600px;
+    height: 400px;
+    margin-left: 280px;
+    margin-top: 30px;
+}
+.text_line{
+    margin-left: 700px;
+    margin-top: 50px;
+    font-size: 20px;
+    background: linear-gradient(#9025be,#be2550,#d8122e,#ec5d24,#ecb024);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
